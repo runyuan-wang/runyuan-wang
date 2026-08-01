@@ -6,19 +6,19 @@ Master of Nutrition and Food Hygiene from Kunming Medical University, Chinese Re
 
 ## Representative Projects
 
-- [Nutrition Assistants](https://github.com/9s5bz2jvd2-lang/nutrition-assistants)  
+- [Nutrition Assistants](https://github.com/runyuan-wang/nutrition-assistants)  
   Open-source nutrition education and AI-assisted nutrition workflow project maintained by Wang Runyuan.
 
-- [Yuanjiang Nutritionist Diet Evaluation Assistant Skill](https://github.com/9s5bz2jvd2-lang/yuanjiang-nutritionist-diet-evaluation-assistant-skill)  
+- [Yuanjiang Nutritionist Diet Evaluation Assistant Skill](https://github.com/runyuan-wang/yuanjiang-nutritionist-diet-evaluation-assistant-skill)  
   A practical AI skill for organizing and evaluating three-day diet records for nutrition professionals.
 
-- [食物观星 Shiwu Guanxing](https://github.com/9s5bz2jvd2-lang/shiwu-guanxing)  
+- [食物观星 Shiwu Guanxing](https://github.com/runyuan-wang/shiwu-guanxing)  
   A nutrition and astronomy inspired science communication project.
 
-- [Tiny Mushroom Forest](https://github.com/9s5bz2jvd2-lang/tiny-mushroom-forest)  
+- [Tiny Mushroom Forest](https://github.com/runyuan-wang/tiny-mushroom-forest)  
   A gentle desktop healing toy with mushroom growth, nutrition whispers, and safety reminders.
 
-- [Wusheng / 万物生](https://github.com/9s5bz2jvd2-lang/wusheng)  
+- [Wusheng / 万物生](https://github.com/runyuan-wang/wusheng)  
   A cross-disciplinary creativity engine for generating new frameworks, ideas, and visual suggestion maps.
 
 ---
