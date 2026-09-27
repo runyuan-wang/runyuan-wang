@@ -43,7 +43,7 @@ I work frontline in a hospital clinical nutrition department, and distill offici
 
 ### 🤖 Agent 基础设施 · Agent Infrastructure
 
-- 🌌 **[LingTai 灵台](https://github.com/Lingtai-AI/lingtai-kernel)** — Agent OS 内核，我是官方协作者 Outside Collaborator（**45+ PR**，覆盖 daemon 调度、安全策略、MCP、token cache）
+- 🌌 **[LingTai 灵台](https://github.com/Lingtai-AI/lingtai-kernel)** — Agent OS 内核，我是官方协作者 Outside Collaborator（**45+ PR**，覆盖 daemon 调度、安全策略、MCP、token cache）；名字写在 [lingtai-kernel 官方致谢](https://github.com/Lingtai-AI/lingtai-kernel/blob/main/docs/references/acknowledgements.md)里 💛
 - 🌉 **[workbuddy-lingtai-bridge](https://github.com/runyuan-wang/workbuddy-lingtai-bridge)** — WorkBuddy ↔ LingTai 本地桥接
 - 📖 **[book-to-skill-distillation](https://github.com/runyuan-wang/book-to-skill-distillation)** — 把厚书/PDF 蒸馏成 Agent 原生 Skill ⭐ 最受欢迎
 - 🧪 **探索中** — 用多 Agent 协作辅助营养工作，尝试制作营养学相关 benchmark | Exploring multi-agent collaboration for nutrition work, and building nutrition-related benchmarks
